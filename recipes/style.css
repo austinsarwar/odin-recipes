@@ -8,11 +8,6 @@ div  {
     margin-left: auto;
     margin-right: auto;
     list-style-position: inside;
-    
-    
-    
-    
-    
 }
 h1  {
     text-align: center;
@@ -36,4 +31,19 @@ div  h1 {
     height: 700px;
     
    
+}
+.icecream-img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height: 500px;
+    text-align: center;
+    inline-size: 500px;
+    margin-left: 660px;
+}
+.pizza-img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height: 700px;
 }
