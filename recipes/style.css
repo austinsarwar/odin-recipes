@@ -37,9 +37,7 @@ div  h1 {
     margin-left:auto;
     margin-right:auto;
     height: 500px;
-    text-align: center;
-    inline-size: 500px;
-    margin-left: 660px;
+    
 }
 .pizza-img{
     display:block;
