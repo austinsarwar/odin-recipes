@@ -2,53 +2,45 @@
     background-color: #FFFAFA;
    font-family: Arial, Helvetica, sans-serif;
 }
-div  {
-    font-size: 18px;
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
-    list-style-position: inside;
+ ul {
+    display: block;
+    list-style-type: none;
+    padding: 1%;
+   
 }
-h1  {
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: "Helvetica";
+.title {
+    text-align: center;
     color:#4682b4;
+    font-family: "Helvetica";
+
     
+    
+}
+h1{
+    color:#4682b4;
+    font-family: "Helvetica";
 }
 div  h1 {
     font-family:"Helvetica";
    
     
 }
-p {
-    display: table;
-    inline-size: 500px;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 .biryani-img {
-    float: left;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-    height: 700px;
+    display: block;
+    margin: auto;
+    height: 600px;
     
    
 }
 .icecream-img{
-    float: left;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
+  
+  
     height: 500px;
     
 }
 .pizza-img{
-    float: left;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
+   
+    
     height: 300px;
 }
